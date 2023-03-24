@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: interstellar
+    name: hebisd
     env: docker
     plan: free
