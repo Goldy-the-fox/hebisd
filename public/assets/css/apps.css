@@ -1,3 +1,7 @@
+* {
+    font-family: "Viga", sans-serif !important;
+}
+
 .row {
   float: left;
   overflow: hidden;
